@@ -7,25 +7,17 @@ that applies to you. You can remove the other sections if you like, but it isn't
 # New SDK Code Example
 
 - [ ] The default copyright notice appears in all files.
-
 - [ ] Unit tests have been created for all code paths and they all pass.
-
 - [ ] The submitter has run a linter on the code, and all of the submitter's team's minimum rules pass.
-
 - [ ] Minimum usage documentation is included in the code.
-
 - [ ] Code was reviewed, and the submitter has incorporated any and all review comments. (This item is optional for cleanup of legacy code.)
-
 - [ ] All comments and strings have been reviewed, and the submitter has incorporated any and all suggested edits.
-
 - [ ] Metadata has been added as necessary.
 
 # Exsiting Example Update
 
 - [ ] The default copyright notice appears in all files.
-
 - [ ] Code changes have been reviewed, and the submitter has incorporated any and all review comments. (This item is optional for cleanup of legacy code.)
-
 - [ ] All comments and strings have been reviewed, and the submitter has incorporated any and all suggested edits.
 
 # Resolve Issue
