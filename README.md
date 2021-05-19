@@ -8,4 +8,4 @@ This repo has the following templates:
 - [pull_request_template_code_update.md](./.github/PULL_REQUEST_TEMPLATE/pull_request_template_code_update.md)
 - [pull_request_template_new_example.md](./.github/PULL_REQUEST_TEMPLATE/pull_request_template_new_example.md)
 - [pull-request.md](./.github/PULL_REQUEST_TEMPLATE/pull_request.md)
-= [Combined Pull Request](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)
+- [Combined Pull Request](./.github/PULL_REQUEST_TEMPLATE/pull_request_template.md)
